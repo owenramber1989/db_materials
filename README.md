@@ -4,6 +4,10 @@
 
 1. [Modern Effective C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 2. [C++ 并发编程实战 2e](https://github.com/ZhouZhaoJi/Library/blob/master/Programming/C++%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
+3. [C++ template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
+4. [C++那些事](https://github.com/Light-City/CPlusPlusThings)
+5. [C++ Primer 辅助资料](https://github.com/applenob/Cpp_Primer_Practice)
+6. [侯捷 C++ course](https://github.com/ZachL1/Bilibili-plus)
 
 ## 编译原理
 
@@ -55,3 +59,12 @@
 2. [15-721 advanced topics in db system](https://15721.courses.cs.cmu.edu/spring2023/)
 3. [6.5830 db system](http://dsg.csail.mit.edu/6.5830/assign.php)
 4. [基于 oceanbase 的数据库内核开发课程](https://open.oceanbase.com/activities/4921877?q=%E5%AE%9E%E6%88%98%E6%95%99%E7%A8%8B&scope=activity)
+5. [视频 南大 os 课程 by 蒋炎岩](https://space.bilibili.com/202224425/channel/collectiondetail?sid=1116786)
+6. [CS186 Intro to db system](https://cs186berkeley.net/)
+7. [Pingcap talent-plan](https://github.com/pingcap/talent-plan)
+
+## 建议阅读的论文
+
+1. [合集 db-readings](https://github.com/rxin/db-readings)
+2. [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+3. [Google BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
