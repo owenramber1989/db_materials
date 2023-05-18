@@ -2,10 +2,10 @@
 
 ## C++
 
-1. :star2:[Modern Effective C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
+1. :star2::star2:[Modern Effective C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 2. [C++ 并发编程实战 2e](https://github.com/ZhouZhaoJi/Library/blob/master/Programming/C++%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
 3. [C++ template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
-4. [C++那些事](https://github.com/Light-City/CPlusPlusThings)
+4. :star2:[C++那些事](https://github.com/Light-City/CPlusPlusThings)
 5. [C++ Primer 辅助资料](https://github.com/applenob/Cpp_Primer_Practice)
 6. [侯捷 C++ course](https://github.com/ZachL1/Bilibili-plus)
 
@@ -45,13 +45,13 @@
 
 ### git
 
-1. [learn git branching](https://learngitbranching.js.org/)
+1. :star2::star2::star2:[learn git branching](https://learngitbranching.js.org/)
 2. [Pro Git](https://git-scm.com/book/zh/v2)
 3. [如何写好 git message](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
 
 ### make&cmake
 
-1. [Makefile tutorials with examples](https://makefiletutorial.com/)
+1. :start2:[Makefile tutorials with examples](https://makefiletutorial.com/)
 
 ## 参考课程
 
