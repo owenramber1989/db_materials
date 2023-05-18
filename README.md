@@ -1,21 +1,32 @@
 # db_materials
 
+---
+
 ## C++
 
 1. :star2::star2::star2::star2::star2:[Modern Effective C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
+
+> 介绍了 C++11 和 C++14 标准下的编程技巧
+
 2. :star2::star2::star2:[C++ 并发编程实战 2e](https://github.com/ZhouZhaoJi/Library/blob/master/Programming/C++%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
 3. :star2::star2:[C++ template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 4. :star2::star2:[C++那些事](https://github.com/Light-City/CPlusPlusThings)
 5. :star2::star2:[C++ Primer 辅助资料](https://github.com/applenob/Cpp_Primer_Practice)
 6. :star2:[侯捷 C++ course](https://github.com/ZachL1/Bilibili-plus)
 
+---
+
 ## 编译原理
 
 1. :star2::star2::star2:[flex&bison](https://github.com/owenramber1989/db_materials/blob/main/compiler/flex__bison.pdf)
 
+---
+
 ## 操作系统
 
 1. :star2::star2:[操作系统导论](https://github.com/gsZhiZunBao/e-books/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA.pdf)
+
+---
 
 ## 数据库
 
@@ -41,6 +52,8 @@
 1. :star2:[优化器论文专栏](https://www.zhihu.com/column/c_1364661018229141504)
 2. :star2:[阿里云社区优化器列表](https://www.zhihu.com/column/c_1364661018229141504)
 
+---
+
 ## 工具
 
 ### git
@@ -53,6 +66,8 @@
 
 1. :start2:[Makefile tutorials with examples](https://makefiletutorial.com/)
 
+---
+
 ## 参考课程
 
 1. :star2::star2::star2::star2:[15-445 intro to db system](https://15445.courses.cs.cmu.edu/spring2023/)
@@ -63,11 +78,15 @@
 6. :star2::star2:[CS186 Intro to db system](https://cs186berkeley.net/)
 7. :star2::star2:[Pingcap talent-plan](https://github.com/pingcap/talent-plan)
 
+---
+
 ## 建议阅读的论文
 
 1. :star2:[合集 db-readings](https://github.com/rxin/db-readings)
 2. :star2::star2:[Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 3. :star2::star2:[Google BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+
+---
 
 ## 建议阅读的项目源码
 
