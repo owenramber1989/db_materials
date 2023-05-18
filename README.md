@@ -2,7 +2,7 @@
 
 ## C++
 
-1. [Modern Effective C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
+1. :star2:[Modern Effective C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 2. [C++ 并发编程实战 2e](https://github.com/ZhouZhaoJi/Library/blob/master/Programming/C++%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
 3. [C++ template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 4. [C++那些事](https://github.com/Light-City/CPlusPlusThings)
@@ -68,3 +68,8 @@
 1. [合集 db-readings](https://github.com/rxin/db-readings)
 2. [Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 3. [Google BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+
+## 建议阅读的项目源码
+
+1. [miniob](https://github.com/oceanbase/miniob.git)
+2. [toydb](https://github.com/erikgrinaker/toydb)
