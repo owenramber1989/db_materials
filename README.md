@@ -2,73 +2,56 @@
 
 ---
 
-## C++
+## 语言
 
 1. :star2::star2::star2::star2::star2:[Modern Effective C++](https://cntransgroup.github.io/EffectiveModernCppChinese/)
 
     介绍了 C++11 和 C++14 标准下的编程技巧
 
-2. :star2::star2::star2:[C++ 并发编程实战 2e](https://github.com/ZhouZhaoJi/Library/blob/master/Programming/C++%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
+2. :star2::star2::star2:[C++ 并发编程实战 第二版](https://github.com/ZhouZhaoJi/Library/blob/master/Programming/C++%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98.pdf)
 
     介绍了如何用 C++进行并发编程
 
-3. :star2::star2:[C++ template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
-
-    介绍了 C++模板编程的技巧
-
-4. :star2::star2:[C++那些事](https://github.com/Light-City/CPlusPlusThings)
-
-    较为完整的 C++知识点清单
-
-5. :star2::star2:[C++ Primer 辅助资料](https://github.com/applenob/Cpp_Primer_Practice)
-
-    C++ Primer 这本书的习题答案与示例代码
-
-6. :star2:[侯捷 C++ course](https://github.com/ZachL1/Bilibili-plus)
+3. :star2::star2::star2::star2:[侯捷 C++ course](https://github.com/ZachL1/Bilibili-plus)
 
     侯捷老师的 C++系列课程，深入学习 C++的必经之路
 
+4. :star2::star2::star2:[Modern C](https://www.manning.com/books/modern-c)
 
+    这本书讲了许多C11、C17的用法，如果在miniob中碰到一些比较晦涩的c代码，可以参考一下这本书
 
 ## 编译原理
 
 1. :star2::star2::star2:[flex&bison](https://github.com/owenramber1989/db_materials/blob/main/compiler/flex__bison.pdf)
 
-    本书介绍了如何使用 flex 与 bison
-
+    本书介绍了如何使用 flex 与 bison, 重点看一下第四章和第五章就好
 
 
 ## 操作系统
 
 1. :star2::star2:[操作系统导论](https://github.com/gsZhiZunBao/e-books/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA.pdf)
 
-    非常好的操作系统入门书，分为三大模块介绍操作系统，行文生动，示例丰富
-
-
+    这本大家应该都看过，本书作者也开了不少DBMS的玩笑，很有意思
 
 ## 数据库
 
-### 基本概念与原理
+### 基础知识
 
 1. :star2::star2::star2::star2::star2:[数据库系统概念](https://github.com/Sorosliu1029/Database-Systems/blob/master/Database-System-Concepts-7th-Edition.pdf)
 
-    经典中的经典，必读
+    书本身比较厚，6-12章介绍了一些没太大关联的内容，13章存储部分往后是本书精华，遇到不熟悉的内容可以先翻阅此书
 
-2. :star2::star2::star2::star2:[MySQL 技术内幕(InnoDB 存储引擎)第 2 版.](<https://github.com/wususu/effective-resourses/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL%E6%8A%80%E6%9C%AF%E5%86%85%E5%B9%95(InnoDB%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E)%E7%AC%AC2%E7%89%88.pdf>)
+2. :star2::star2::star2::star2:[数据库系统实现](http://cdn.lxqnsys.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%AE%9E%E7%8E%B0%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
 
-    本书涉及到数据库内核开发的很多方面，无论是为了深入学习 Mysql 还是学习内核开发技巧，都强烈建议阅读此书
+    出版于 2009 年，时间上有些久远，但是品质非常好，翻译也很地道，书很薄，建议多看几遍
 
-3. :star2::star2::star2:[高性能 mysql 4th](<https://github.com/owenramber1989/db_materials/blob/main/database/High%20Performance%20MySQL%20Proven%20Strategies%20for%20Operating%20at%20Scale%2C%204th%20Edition%20(Silvia%20Botros%2C%20Jeremy%20Tinley)%20(Z-Library).pdf>)
+3. :star2::star2::star2:[Database Internals 数据库系统内幕](https://github.com/G33kzD3n/Catalogue/blob/master/Database%20Internals.pdf)
 
-    很好的一本书，中文第四版可以在图书馆借到
+    本书很新，介绍了非常多的最新技术和最新实践，建议结合章末推荐的论文阅读
 
-4. :star2::star2::star2:[数据库系统实现](http://cdn.lxqnsys.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F%E5%AE%9E%E7%8E%B0%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
+4. :star2::star2::star2:[DDIA](http://ddia.vonng.com/#/preface)
 
-    出版于 2009 年，时间上有些久远，但内容没有过时，学习此书可以帮助在脑海中建立起整个数据库内核的框架
-
-5. :star2::star2:[Database Internals](https://github.com/G33kzD3n/Catalogue/blob/master/Database%20Internals.pdf)
-
-    本书很新，介绍了非常多的最新技术和最新实践，但是浅尝辄止，很少涉及到原理层面，建议结合索引中的论文阅读，中文译本《数据库系统内幕》，可以在图书馆借到
+    与本次比赛关系不大，但是可以极大地促进对数据处理的理解
 
 ### 存储处理
 
@@ -76,26 +59,17 @@
 
    > 索引设计必读书目，对于各种实践都有清晰的对比分析
 
-2. :star2:[数据库内核杂谈](https://www.infoq.cn/article/spfiSuFZENC6UtrftSDD)
+### 查询优化
 
-### 事务处理
+1. :star2::star2:[优化器论文专栏](https://www.zhihu.com/column/c_1364661018229141504)
 
-1. :star2::star2::star2:[DDIA](http://ddia.vonng.com/#/preface)
-
-    非常好的系统设计读物，无论是数据处理还是事务处理，本书都给出了独到的见解，高屋建瓴，但是并没有深入到数据库的具体实现，有时间可以看看
-
-### 查询处理
-
-1. :star2:[优化器论文专栏](https://www.zhihu.com/column/c_1364661018229141504)
-
-    有时间可以看看
-
-2. :star2:[阿里云社区优化器列表](https://www.zhihu.com/column/c_1364661018229141504)
-
-
+    这个收藏夹里面的论文都很经典
+2. :star2::star2::star2:[PostgreSQL技术内幕：查询优化深度探索](https://book.douban.com/subject/30256561/)
+    这本书非常好地介绍了众多查询优化思路，结合最先进的开源数据库pg作了充分的论述
 
 ## 工具
 
+> 当然现在有chatgpt了，这些工具都可以轻松使用
 ### git
 
 1. :star2::star2::star2::star2::star2:[learn git branching](https://learngitbranching.js.org/)
@@ -112,7 +86,7 @@
 
 ### make&cmake
 
-1. :start2:[Makefile tutorials with examples](https://makefiletutorial.com/)
+1. :star2:[Makefile tutorials with examples](https://makefiletutorial.com/)
 
     在实践中学习 Makefile 的编写
 
@@ -120,13 +94,11 @@
 
 ## 参考课程
 
-1. :star2::star2::star2::star2:[15-445 intro to db system](https://15445.courses.cs.cmu.edu/spring2023/)
+1. :star2::star2::star2::star2:[15-445 intro to db system](https://15445.courses.cs.cmu.edu/fall2023/schedule.html)
+秋季版的暂时没更完，23fa的lab0,lab1和23sp没什么区别，不过23fa的索引是可扩展hash索引，跟前几个学期的B+树索引不同，可以尝尝鲜
+2. :star2::star2::star2:[15-721 advanced topics in db system](https://15721.courses.cs.cmu.edu/spring2020/schedule.html)
 
-    这门课程有完备的录像和实验，实验可以在 GradeScope 上面进行测评，做完该实验的五个 lab 可以对存储、事务与查询三大模块有较为清晰的认知。课程录像质量也很高，但是 Andy 老师语速很快，以及时不时会炸麦，所以听课的难度会比较高一点
-
-2. :star2::star2:[15-721 advanced topics in db system](https://15721.courses.cs.cmu.edu/spring2023/)
-
-    手把手带你读业界最新论文
+    手把手带你读业界最新论文, 这里面提到的论文都非常值得一读，需要注意20版侧重OLTP, 23版侧重OLAP, 为了比赛建议优先学习20版。而且说实话，完整消化本课程大约需要100h，还是要下功夫硬啃的。btw, 因为疫情，20版属于纯净版，你不用听23版一个傻丫头整节课尬笑，贼烦
 
 3. :star2:[6.5830 db system](http://dsg.csail.mit.edu/6.5830/assign.php)
 
@@ -153,26 +125,42 @@
 ## 建议阅读的论文
 
 1. :star2:[合集 db-readings](https://github.com/rxin/db-readings)
-2. :star2::star2:[Google Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
-3. :star2::star2:[Google BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 
-## 很有价值的博客
+> 还有2020版15721的全部论文，当然我想你们看不完，我也看不完
+
+## 很有价值的博客还有知乎文章
 
 1. :star2::star2::star2::star2:[数据库内核月报-B+树索引的演进](https://www.bookstack.cn/read/aliyun-rds-core/aa131d04150a2a21.md)'
    PolarDB团队的数据库内核月报都很有价值，建议有时间就多看看
 2. :star2::star2::star2:[SQlite源码分析](https://huili.github.io/index.html)
    SQlite只有130KLOC，结合这份博客可以帮助我们更好地阅读源码
-3. :star2::star2::star2::star2:[MySQL索引原理及慢查询优化](https://tech.meituan.com/2014/06/30/mysql-index.html)
-   美团的博客质量也挺高
-4. :star2::star2::star2::star2:[TiKV的教学文档](https://tikv.github.io/deep-dive-tikv/overview/introduction.html#introduction)
-   建议阅读
-   
-## 建议阅读的项目源码
+**下面这些文章我就不打星了，好累**
 
-1. :star2::star2::star2:[miniob](https://github.com/oceanbase/miniob.git)
-
-    这是 21 年以及 22 年 oceanbase 大赛的初赛代码框架，建议阅读并完成练习
-
-2. [toydb](https://github.com/erikgrinaker/toydb)
-
-    非常好的简易数据库实现，不过是用 rust 写的，同学们如果学过 rust 可以多看看这个项目的源码
+- [2022 OceanBase 数据库大赛决赛经历分享](https://zhuanlan.zhihu.com/p/617520132)
+- [OceanBase比赛总结 | OceanBase内核初探](https://zhuanlan.zhihu.com/p/508331407)
+- [大规模分布式数据库是如何实现的 -- 读《OceanBase 数据库源码解析》](https://zhuanlan.zhihu.com/p/655202941)
+- [有什么好的数据库学习路径推荐？](https://www.zhihu.com/question/451898647/answer/1813178673)
+- [数据库中的prefetch和interleave](https://zhuanlan.zhihu.com/p/443829741)
+- [BwTree技术解读](https://zhuanlan.zhihu.com/p/29314464)
+- [现代 C++ 及其在 ClickHouse 中的应用](https://zhuanlan.zhihu.com/p/655663455)
+- [kv分离LSM存储引擎的工业界应用](https://zhuanlan.zhihu.com/p/397466422)
+- [RocksDb用到的一些优化技巧](https://www.zhihu.com/question/270732348/answer/2637403074)
+- [深入浅出分析LSM树（日志结构合并树）](https://zhuanlan.zhihu.com/p/415799237)
+- [mysql如何实现函数依赖](https://zhuanlan.zhihu.com/p/652844913)
+- [Merge Path - A Visually Intuitive Approach to Parallel Merging 论文解读](https://zhuanlan.zhihu.com/p/606678298)
+- [许多OceanBase优化器的例子](https://www.zhihu.com/question/544427791/answer/2914079227)
+- [SQL子查询的优化](https://zhuanlan.zhihu.com/p/60380557)
+- [cascade optimizer](https://zhuanlan.zhihu.com/p/73545345)
+- [mysql无锁日志系统的源码解读](https://zhuanlan.zhihu.com/p/650089686)
+- [CockRoachDB向量化执行引擎简介及Hash Join向量化实现](https://zhuanlan.zhihu.com/p/645428158)
+- [大型c++项目在linux下如何调试?](https://www.zhihu.com/question/26905808/answer/1971302757)
+- [mysql如何实现日志](https://zhuanlan.zhihu.com/p/628365328)
+- [bustub的缓冲池优化](https://zhuanlan.zhihu.com/p/644160340)
+- [论文导读 | 数据库查询优化中的 Join Order 问题](https://zhuanlan.zhihu.com/p/644832644)
+- [自动机算法在数据库索引中的应用](https://zhuanlan.zhihu.com/p/628057993)
+- [RocksDB中的无锁数据结构设计](https://www.zhihu.com/question/52629893/answer/3146235681)
+- [高性能无锁数据结构探索-持久化log实现](https://zhuanlan.zhihu.com/p/632731393)
+- [bustub性能优化](https://zhuanlan.zhihu.com/p/636275627)
+- [PostgreSQL BTree(B-Link-Tree变种) 索引基本实现原理](https://zhuanlan.zhihu.com/p/639226810)
+- [B-tree 并发控制的演进](https://zhuanlan.zhihu.com/p/613532094)
+- [C++ 的无锁数据结构在工业界有真正的应用吗？](https://www.zhihu.com/question/52629893/answer/2937070552)
